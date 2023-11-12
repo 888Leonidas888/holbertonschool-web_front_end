@@ -48,3 +48,11 @@ El Consorcio World Wide Web (W3C) es la principal organización internacional de
 ## W3C-validador
 
 Para este proyecto se usará el siguiente [validador](https://github.com/hs-hq/W3C-Validator "validador") proporcioando por Holbertoon basado en la API del mismo W3C, cabe mencionar que la W3C cuenta con [validador](https://validator.w3.org/ "validador") (W3C Markup Validation Service).
+
+## Sigue Aprendiendo
+
+Visita la documentación oficial y enlaces a otros sitios web:
+
+- [HTML: Lenguaje de etiquetas de hipertexto | MDN - MDN Web Docs](https://developer.mozilla.org/es/docs/Web/HTML)
+- [Estructura web y documentación - Aprende desarrollo web | MDN](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+- [Lenguaje HTML | Documentación sobre desarrollo web - HTML en español](https://lenguajehtml.com/html/)
