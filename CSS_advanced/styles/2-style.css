@@ -2,22 +2,16 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  background: #161616;
-}
-
+body,
 a {
-  background: #161616;
+  color: #161616;
 }
 
 .visually-hidden {
   display: none;
 }
 
-.card-category {
-  background-color: #d73953;
-}
-
+.card-category,
 .section-tagline {
-  background-color: #d73953;
+  color: #d73953;
 }
