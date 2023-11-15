@@ -85,7 +85,8 @@ h6 {
 }
 
 a[href]:not([href="#"]) {
-  /* Tus estilos aquí */
+  text-decoration: none;
+  color: inherit;
 }
 
 a:visited {
