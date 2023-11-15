@@ -84,6 +84,10 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
+a[href]:not([href="#"]) {
+  /* Tus estilos aquí */
+}
+
 a:visited {
   font-style: italic;
 }
