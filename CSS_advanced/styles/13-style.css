@@ -84,14 +84,14 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
-a[href]:not([href="#"]):visited {
+a[href="#"]:visited {
   font-style: italic;
 }
 
-a[href]:not([href="#"]):hover {
+a[href="#"]:hover {
   text-decoration: underline;
 }
 
-a[href]:not([href="#"]):active {
+a[href="#"]:active {
   background-color: var(--color-light-grey);
 }
