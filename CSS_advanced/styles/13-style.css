@@ -89,14 +89,14 @@ a {
   /* color: inherit; */
 }
 
-a:visited {
+a[href]:not([href="#"]):visited {
   font-style: italic;
 }
 
-a:hover {
+a[href]:not([href="#"]):hover {
   text-decoration: underline;
 }
 
-a:active {
+a[href]:not([href="#"]):active {
   background-color: var(--color-light-grey);
 }
