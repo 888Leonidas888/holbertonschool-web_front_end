@@ -242,6 +242,11 @@ h6 {
   font-weight: var(--font-weight-bold);
 }
 
+a:link {
+  color: var(--text-color);
+  text-decoration: none;
+}
+
 a[href]:visited {
   font-style: italic;
 }
