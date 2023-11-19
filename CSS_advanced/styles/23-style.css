@@ -216,7 +216,7 @@ a[href]:active {
 }
 
 .footer-address {
-  font-style: var(--text-color);
+  color: var(--text-color);
 }
 
 .social-link {
@@ -224,5 +224,5 @@ a[href]:active {
 }
 
 .social-link svg {
-  font-style: var(--text-color);
+  fill: var(--text-color);
 }
