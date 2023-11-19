@@ -209,6 +209,12 @@ a[href]:active {
   text-align: right;
 }
 
+[data-section-theme="dark"] {
+  --text-color: var(--color-white);
+  --section-title-color: var(--color-white);
+  background: var(--color-black);
+}
+
 .footer-address {
   font-style: var(--text-color);
 }
@@ -219,10 +225,4 @@ a[href]:active {
 
 .social-link svg {
   font-style: var(--text-color);
-}
-
-[data-section-theme="dark"] {
-  --text-color: var(--color-white);
-  --section-title-color: var(--color-white);
-  background: var(--color-black);
 }
