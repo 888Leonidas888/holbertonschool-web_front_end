@@ -210,7 +210,7 @@ a[href]:active {
 }
 
 .footer-address {
-  color: var(--text-color);
+  font-style: var(--text-color);
 }
 
 .social-link {
@@ -218,7 +218,7 @@ a[href]:active {
 }
 
 .social-link svg {
-  color: var(--text-color);
+  font-style: var(--text-color);
 }
 
 [data-section-theme="dark"] {
