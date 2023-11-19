@@ -193,6 +193,7 @@ a[href]:active {
 }
 
 .footer-copyright {
+  margin: none;
   font-size: var(--font-size-small);
   color: var(--text-color);
 }
